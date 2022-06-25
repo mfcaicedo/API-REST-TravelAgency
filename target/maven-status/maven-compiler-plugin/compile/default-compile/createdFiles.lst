@@ -1,0 +1,8 @@
+co\unicauca\travelagency\presentation\CustomerController.class
+co\unicauca\travelagency\JAXRSConfiguration.class
+co\unicauca\travelagency\domain\service\CustomerService.class
+co\unicauca\travelagency\access\ICustomerRepositoryImplArrays.class
+co\unicauca\travelagency\access\ICustomerRepositoryImplMysql.class
+co\unicauca\travelagency\resources\JavaEE8Resource.class
+co\unicauca\travelagency\access\ICustomerRepository.class
+co\unicauca\travelagency\domain\Customer.class
